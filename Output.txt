@@ -1,0 +1,46 @@
+1.
+School Bus 1 is a Vehicle.
+School Bus 2 is an Impostor.
+
+2.
+Name: Anya
+Department: Human Resources
+
+Name: Swansea
+Department: Operations
+
+Name: Daisuke
+Department: Operations
+
+Name: Curly
+Department: Executive
+
+Name: Jimmy
+Department: Executive
+
+3.
+Westurburg High Students:
+- Veronica (GPA: 4.00)
+- Jason (GPA: 2.30)
+- Heather (GPA: 2.70)
+
+Northshore High Students:
+- Cady (GPA: 4.00)
+- Aaron (GPA: 3.30)
+- Regina (GPA: 3.00)
+
+4.
+Vector(10, -5)
+
+5.
+Title: The School for Good and Evil
+Author: Soman Chainani (American)
+
+Title: The Story Keeper
+Author: Lisa Wingate (American)
+
+Title: Brother Grimm
+Author: Craig Russel (British)
+
+Title: The School for Good and Evil: A World Without Princes
+Author: Soman Chainani (American)
